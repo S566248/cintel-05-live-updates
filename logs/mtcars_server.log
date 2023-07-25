@@ -1,0 +1,41 @@
+2023-07-24 17:38:34,698.mtcars_server.INFO =============================================================
+2023-07-24 17:38:34,699.mtcars_server.INFO Today is 2023-07-24 at 05:38 PM
+2023-07-24 17:38:34,700.mtcars_server.INFO This file is running on: nt Windows 10
+2023-07-24 17:38:34,701.mtcars_server.INFO The Python version is: 3.11.3
+2023-07-24 17:38:34,703.mtcars_server.INFO The active environment path is:   C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\.venv
+2023-07-24 17:38:34,704.mtcars_server.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates
+2023-07-24 17:38:34,705.mtcars_server.INFO =============================================================
+2023-07-24 17:38:39,878.mtcars_server.DEBUG filter message: Showing 32 of 32 records
+2023-07-24 17:38:40,192.mtcars_server.INFO Starting mtcars_output_widget1
+2023-07-24 17:38:45,846.mtcars_server.INFO Starting mtcars_plot1
+2023-07-24 17:38:52,394.mtcars_server.INFO READING df from C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-24 17:38:52,429.mtcars_server.INFO READING df len 15
+2023-07-24 17:38:52,434.mtcars_server.INFO init reactive_temp_df len: 15
+2023-07-24 17:38:52,442.mtcars_server.INFO mtcars_temperature_location_string starting
+2023-07-24 17:38:52,443.mtcars_server.INFO Recent Temperature in F for ELY MN.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-07-24 17:38:52,447.mtcars_server.INFO Rendering TEMP table with 5 rows
+2023-07-24 17:38:52,475.mtcars_server.INFO Rendering TEMP chart with 5 points
+2023-07-24 17:38:53,066.mtcars_server.INFO READING df from C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-24 17:38:53,083.mtcars_server.INFO READING df len 3
+2023-07-24 17:38:53,085.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-07-24 17:38:53,092.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-07-24 17:39:16,918.mtcars_server.INFO init reactive_temp_df len: 3
+2023-07-24 17:39:16,920.mtcars_server.INFO mtcars_temperature_location_string starting
+2023-07-24 17:39:16,921.mtcars_server.INFO Recent Temperature in F for Death Valley CA.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-07-24 17:39:16,927.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-07-24 17:39:16,937.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-07-24 17:39:19,714.mtcars_server.INFO init reactive_temp_df len: 3
+2023-07-24 17:39:19,715.mtcars_server.INFO mtcars_temperature_location_string starting
+2023-07-24 17:39:19,716.mtcars_server.INFO Recent Temperature in F for Maryville MO.
+Updated once per minute for 15 minutes.
+Keeps the most recent 10 minutes of data.
+2023-07-24 17:39:19,720.mtcars_server.INFO Rendering TEMP table with 1 rows
+2023-07-24 17:39:19,730.mtcars_server.INFO Rendering TEMP chart with 1 points
+2023-07-24 17:39:53,740.mtcars_server.INFO READING df from C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-24 17:39:53,776.mtcars_server.INFO READING df len 6
+2023-07-24 17:39:53,779.mtcars_server.INFO Rendering TEMP table with 2 rows
+2023-07-24 17:39:53,791.mtcars_server.INFO Rendering TEMP chart with 2 points
