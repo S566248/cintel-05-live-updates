@@ -30,6 +30,7 @@ logger, logname = setup_logger(__file__)
 # Define a function that will run continuously to update our data.
 # We update to a local file, but we could also update to a database.
 # Or a cloud service. Or a data lake. Or a data warehouse.
+
 async def update_csv_files():
     while True:
         logger.info("Calling continuous updates ...")
