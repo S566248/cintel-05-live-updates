@@ -1,26 +1,7 @@
-2023-07-24 17:38:27,619.continuous_location.INFO =============================================================
-2023-07-24 17:38:27,634.continuous_location.INFO Today is 2023-07-24 at 05:38 PM
-2023-07-24 17:38:27,634.continuous_location.INFO This file is running on: nt Windows 10
-2023-07-24 17:38:27,637.continuous_location.INFO The Python version is: 3.11.3
-2023-07-24 17:38:27,638.continuous_location.INFO The active environment path is:   C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\.venv
-2023-07-24 17:38:27,639.continuous_location.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates
-2023-07-24 17:38:27,640.continuous_location.INFO =============================================================
-2023-07-24 17:38:53,012.continuous_location.INFO Calling update_csv_location
-2023-07-24 17:38:53,015.continuous_location.INFO update_interval: 60
-2023-07-24 17:38:53,016.continuous_location.INFO total_runtime: 900
-2023-07-24 17:38:53,016.continuous_location.INFO num_updates: 10
-2023-07-24 17:38:53,018.continuous_location.INFO Initialized csv file at C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
-2023-07-24 17:38:53,019.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:38:53,023.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
-2023-07-24 17:38:53,024.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:38:53,026.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
-2023-07-24 17:38:53,027.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:38:53,029.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
-2023-07-24 17:38:53,054.continuous_location.INFO Saving temperatures to C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
-2023-07-24 17:39:53,045.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:39:53,046.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=47.903237&lon=-91.867087&appid=None&units=imperial
-2023-07-24 17:39:53,047.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:39:53,049.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=36.5323&lon=-116.93&appid=None&units=imperial
-2023-07-24 17:39:53,050.continuous_location.INFO Calling get_temperature_from_openweathermap for {lat}, {long}}
-2023-07-24 17:39:53,052.continuous_location.INFO Calling fetch_from_url for https://api.openweathermap.org/data/2.5/weather?lat=40.346102&lon=-94.872471&appid=None&units=imperial
-2023-07-24 17:39:53,059.continuous_location.INFO Saving temperatures to C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\data\mtcars_location.csv
+2023-07-28 23:08:21,702.continuous_location.INFO =============================================================
+2023-07-28 23:08:21,703.continuous_location.INFO Today is 2023-07-28 at 11:08 PM
+2023-07-28 23:08:21,704.continuous_location.INFO This file is running on: nt Windows 10
+2023-07-28 23:08:21,705.continuous_location.INFO The Python version is: 3.11.3
+2023-07-28 23:08:21,706.continuous_location.INFO The active environment path is:   c:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates\.venv
+2023-07-28 23:08:21,708.continuous_location.INFO The current working directory is: C:\Users\Mikayla Rietgraf\NWMS Masters\Continuous Intelligence\cintel-05-live-updates
+2023-07-28 23:08:21,710.continuous_location.INFO =============================================================
