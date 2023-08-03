@@ -18,7 +18,6 @@ from util_logger import setup_logger
 # Set up a file logger
 logger, log_filename = setup_logger(__file__)
 
-msft = yf.Ticker("MSFT")
 
 def lookup_ticker(company):
     stocks_dictionary = {
@@ -27,7 +26,7 @@ def lookup_ticker(company):
         "Toyota Motor Corporation": "TM",
         "Ford Motor Company": "F",
         "Honda Motor Co": "HMC",
-        "Microsoft Corporation": "MSFT",
+        
     }
     ticker = stocks_dictionary[company]
     return ticker
@@ -58,10 +57,10 @@ async def update_csv_stock():
 
         # Stub: Create a simple DataFrame with static data
         df_data = pd.DataFrame({
-            "Company": ["Tesla Inc", "General Motors Company"],
-            "Ticker": ["TSLA", "GM"],
-            "Time": ["2023-07-25 12:00:00", "2023-07-25 12:01:00"],
-            "Price": [700.0, 60.0]
+            "Company": ["Tesla Inc", "General Motors Company", "Toyota Motor Corporation", "Ford Motor Company", "Honda Motor Co"],
+            "Ticker": ["TSLA", "GM", "TM", "F", "HMC"],
+            "Time": ["2023-07-25 12:00:00", "2023-07-25 12:01:00", "2023-07-25 12:02:00", "2023-07-25 12:03:00", "2023-07-25 12:04:00"],
+            "Price": [700.0, 60.0, 200.00, 300.00, 150.00]
         })
 
         # Save stock prices to the CSV file

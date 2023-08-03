@@ -13,6 +13,8 @@ def get_mtcars_outputs():
         ui.h2("Main Panel with Continuous and Reactive Output"),
         ui.tags.hr(),
         ui.tags.section(
+            ui.h3("Continuous Updates (Stocks)"),
+            ui.tags.br(),
             ui.h3("Continuous Updates (Weather API)"),
             ui.tags.br(),
             ui.output_text("mtcars_location_string"),
