@@ -1,14 +1,21 @@
+# Standard Library
 import asyncio
-import os
-import pandas as pd
-import yfinance as yf
-from collections import deque
 from datetime import datetime
 from pathlib import Path
-from util_logger import setup_logger
-from fetch import fetch_from_url
+import os
+from random import randint
 
-#Set up the logger 
+# External Packages
+import pandas as pd
+from collections import deque
+from dotenv import load_dotenv
+import yfinance as yf
+
+# Local Imports
+from fetch import fetch_from_url
+from util_logger import setup_logger
+
+# Set up a file logger
 logger, log_filename = setup_logger(__file__)
 
 msft = yf.Ticker("MSFT")
