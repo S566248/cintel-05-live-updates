@@ -1,7 +1,7 @@
 # Continuous Intelligence App
 
-- Repository: [cintel-05-live-updates](https://github.com/s566248/cintel-05-live-updates)
-- Website: [cintel-05-live-updates](https://s566248.github.io/cintel-05-live-updates/)
+- Repository: [cintel-07-final](https://github.com/s566248/cintel-07-final)
+- Website: [cintel-07-final](https://s566248.github.io/cintel-07-final/)
 - Author: [Tyler Stanton](https://github.com/s566248)
 
 -----
@@ -42,7 +42,7 @@ With your respository folder open in VS Code:
 
 ## Create a Local Virtual Environment
 
-Open a PowerShell terminal in this cintel-05-live-updates folder on your machine. 
+Open a PowerShell terminal in this cintel-07-final folder on your machine. 
 Create a virtual environment named .venv in the current directory. 
 Verify that a .venv folder was created after running the command. 
 
